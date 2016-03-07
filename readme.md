@@ -5,6 +5,8 @@
 
 - En spelare spelar alltid från en och samma linje.
 
+- Ringarna ska placeras i två cirklar med varannan gul och varannan röd. Innan spelet börjar.
+
 - Man drar lott om färg. Gul börjar alltid.
 
 - Röd avslutar alltid spelet. Får gul i alla sina brickor innan röd, så har röd en chans att spela vidare för att få till ett ”lika” resultat.
