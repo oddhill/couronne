@@ -11,7 +11,7 @@
 
 - Röd avslutar alltid spelet. Får gul i alla sina brickor innan röd, så har röd en chans att spela vidare för att få till ett ”lika” resultat.
 
-- Stöt brickorna måste läggas på sin startlinje, man får inte lägga brickan i eller runt hörnringarna.
+- Stötbrickorna måste läggas på sin startlinje, man får inte lägga brickan i eller runt hörnringarna.
 
 - Man måste alltid stöta utåt. Aldrig längs linjen eller bakåt.
 
