@@ -15,6 +15,8 @@
 
 - Man måste alltid stöta utåt. Aldrig längs linjen eller bakåt.
 
+- Man får under inga omständigheter byta material under pågående match *(tex kö, skor och handskar)*
+
 ## Straffregler
 - Stöter man ner en av motspelarens brickor samtidigt med egen bricka. Så får motståndaren placera din bricka i mittcirkeln.
 
