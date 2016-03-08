@@ -31,3 +31,5 @@
 - Man måste alltid träffa sina egna brickor först. Träffar man motståndarens så får denne ta upp en av dina brickor och placera i mittcirkeln.
 
 - Om man medvetet träffar motståndarens bricka så den hamnar bakom dennes startlinje, så placeras den brickan i cirklens mitt av motståndaren.
+
+- Stöter man till någon av spelplanens brickor så förlorar man sin stöt och turen går över till motståndaren.
