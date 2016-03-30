@@ -9,7 +9,7 @@
 
 - Man drar lott om färg. Grön börjar alltid.
 
-- Röd avslutar alltid spelet. Får grön i alla sina brickor innan röd, så har röd en chans att spela vidare för att få till ett ”lika” resultat.
+- Den som avslutar spelet avgörs genom den som först får i sin egen bricka. Får du själv i din egen bricka först så avslutar motståndaren, och vice versa.
 
 - Stötbrickorna måste läggas på sin startlinje, man får inte lägga brickan i eller runt hörnringarna.
 
@@ -18,6 +18,8 @@
 - Man får under inga omständigheter byta material under pågående match *(tex kö, skor och handskar)*
 
 - Man får max ha 4 brickor totalt genom hela matchen bakom sin egen startlinje. Därefter placeras de brickor som hamnar bakom startlinjen i mittcirkeln.
+
+- Blir det lika så avgörs spelet på straffar. Det går till så att man lägger en bricka i mittcirkeln som man sen ska stöta ner. Varannan stöt är det som gäller. Man håller på tills någon missar. Den som inte började avslutar alltid.
 
 ## Straffregler
 **Om man straffas med att ta upp en bricka så är det alltid max 1 bricka som gäller.**
