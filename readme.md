@@ -3,37 +3,37 @@
 
 ![pegi](https://github.com/oddhill/couronne/blob/master/pegi.png)
 
-- En spelare spelar alltid från en och samma linje.
+- En spelare spelar alltid från en och samma linje. Spelar man i lag (2 mot 2) spelar lagmedlemmarna från varsin linje mittemot varandra.
 
-- Ringarna ska placeras i två cirklar med varannan grön och varannan röd. Innan spelet börjar.
+- Innan spelet börjar placeras ringarna i väl blandade innanför mittcirkeln.
 
-- Man drar lott om färg. Grön börjar alltid.
+- Motståndarna drar lott om färg. Grön börjar alltid.
 
-- Den som avslutar spelet avgörs genom den som först får i sin egen bricka. Får du själv i din egen bricka först så avslutar motståndaren, och vice versa.
+- Vem som avslutar spelet avgörs av den som först får i sin egen bricka. Får du själv i din egen bricka först så avslutar motståndaren, och vice versa.
 
-- Stötbrickorna måste läggas på sin startlinje, man får inte lägga brickan i eller runt hörnringarna.
+- Stötbrickorna måste läggas på spelarens startlinje. Man får inte lägga brickan i eller runt hörnringarna.
 
-- Man måste alltid stöta utåt. Aldrig längs linjen eller bakåt.
+- Man måste alltid stöta utåt, aldrig längs linjen eller bakåt.
 
 - Man får under inga omständigheter byta material under pågående match *(tex kö, skor och handskar)*
 
-- Man får max ha 4 brickor totalt genom hela matchen bakom sin egen startlinje. Därefter placeras de brickor som hamnar bakom startlinjen i mittcirkeln.
+- Man får ha max 4 brickor totalt genom hela matchen bakom sin egen startlinje. Därefter placeras de brickor som hamnar bakom startlinjen i mittcirkeln.
 
-- Blir det lika så avgörs spelet på straffar. Det går till så att man lägger en bricka i mittcirkeln som man sen ska stöta ner. Varannan stöt är det som gäller. Man håller på tills någon missar. Den som inte började avslutar alltid.
+- Blir det oavgjort avgörs spelet på straffar. Spelarna turas då om att lägga en bricka innanför mittcirkeln som sedan ska stötas ner. I varje omgång är det motståndaren som väljer var brickan ska ligga. Man håller på tills någon missar och den som inte började avslutar alltid. Båda spelarna har alltså lika många försök.
 
 ## Straffregler
-**Om man straffas med att ta upp en bricka så är det alltid max 1 bricka som gäller.**
+- Stöter man ner en av motspelarens brickor samtidigt med egen bricka får motståndaren placera din bricka i mittcirkeln.
 
-- Stöter man ner en av motspelarens brickor samtidigt med egen bricka. Så får motståndaren placera din bricka i mittcirkeln.
-
-- Hamnar stötbrickan i hålet eller utanför så får motståndaren ta upp en av dina brickor och placera i mittcirkeln.
+- Hamnar stötbrickan i hålet eller utanför får motståndaren ta upp en av dina brickor och placera i mittcirkeln.
 
 - Stöter man ut en av sina egna brickor utanför bordet får motståndaren placer den i mittcirkeln.
 
 - Stöter man ut en av motståndarens brickor placeras den i närmaste hörnring.
 
-- Man måste alltid träffa sina egna brickor först. Träffar man motståndarens så får denne ta upp en av dina brickor och placera i mittcirkeln.
+- Man måste alltid träffa sina egna brickor först. Träffar man motståndarens får denne ta upp en av dina brickor och placera i mittcirkeln.
 
-- Om man träffar motståndarens bricka först och att det resulterar i att en eller flera av dennes brickor hamnar bakom hans startlinje, så placeras den brickan/brickorna i cirklens mitt av motståndaren.
+- Om man träffar motståndarens bricka först och det resulterar i att en eller flera av dennes brickor hamnar bakom dennes startlinje, så placeras den brickan/brickorna i cirkelns mitt av motståndaren.
 
 - Stöter man till någon av spelplanens brickor så förlorar man sin stöt och turen går över till motståndaren.
+
+**Om man straffas med att ta upp en bricka så är det alltid max 1 bricka som gäller.**
