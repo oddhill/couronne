@@ -28,7 +28,7 @@
 
 - Stöter man ut en av motståndarens brickor placeras den i närmaste hörnring.
 
-- Man måste alltid träffa sina egna brickor först. Träffar man motståndarens får denne ta upp en av dina brickor och placera i mittcirkeln.
+- Man måste alltid träffa sina egna brickor först. Träffar man motståndarens får denne ta upp en av dina brickor och placera i mittcirkeln, eller bakom startlinjen om brickan som sänktes låg bakom startlinjen.
 
 - Om man träffar motståndarens bricka först och det resulterar i att en eller flera av dennes brickor hamnar bakom dennes startlinje, så placeras den brickan/brickorna i cirkelns mitt av motståndaren.
 
